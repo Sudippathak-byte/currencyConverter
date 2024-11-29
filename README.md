@@ -25,3 +25,6 @@ This project helped me:
 Practice using React hooks, especially custom hooks (useCurrencyInfo).
 Learn how to fetch data from an API and manage asynchronous data.
 Understand how to manage form inputs and create reusable components.
+
+
+![Screenshot 2024-11-29 204900](https://github.com/user-attachments/assets/4d901d04-7c55-40a4-8d86-69d3449a4ad0)
